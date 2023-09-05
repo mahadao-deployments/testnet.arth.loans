@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[6],{985:function(t,n,s){"use strict";s.r(n),n.default=s.p+"static/media/ArrowDown.39bcafc5.svg"}}]);
+//# sourceMappingURL=6.62fde167.chunk.js.map

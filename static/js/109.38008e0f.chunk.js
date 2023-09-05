@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[109],{1088:function(t,s,n){"use strict";n.r(s),s.default=n.p+"static/media/MAHAX.fc1630dd.svg"}}]);
+//# sourceMappingURL=109.38008e0f.chunk.js.map
